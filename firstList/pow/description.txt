@@ -1,0 +1,14 @@
+Potências Simples
+Enquanto você estava estudando no Neps Academy você viu um problema chamado "Potências Simples" e resolveu lê-lo, o problema pedia para você ler dois números reais e imprimisse um número elevado ao outro. Faça um programa que resolva o problema.
+
+Entrada
+A entrada é composta por apenas uma linha que contem dois números reais, x e y.
+
+Saída
+Seu programa deve imprimir um único número x y com 4 casas decimais de precisão.
+
+Restrições
+
+0 <= x <= 10000
+1 < y <= 10
+x^y <= 10^9
